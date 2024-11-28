@@ -1,3 +1,5 @@
+// @ts-ignore
+
 interface Dictionary {
   [key: string]: string;
 }
