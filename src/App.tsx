@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Toaster } from 'react-hot-toast';
 import { ThemeToggle } from './components/ThemeToggle';
 import { TranslationForm } from './components/TranslationForm';
